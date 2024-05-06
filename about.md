@@ -11,3 +11,4 @@ title: About
 #### She trained as a teacher of History in 2020 after completing her Bachelor's degree in Ancient History the year prior.
 #### Georgia is still working as a teacher while undertaking her master's degree in computer science. She currently resides in Nottingham with her 2 cats
 
+![Georgia Niamh](/assets/images/banners/eportfoliopic.jpg)
